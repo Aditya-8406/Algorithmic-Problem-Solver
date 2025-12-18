@@ -1,0 +1,29 @@
+A stack follows the Last In, First Out (LIFO) principle.
+
+Common applications:
+
+Validating expressions
+
+Undo/Redo operations
+
+Parsing problems
+
+Monotonic stack problems
+
+Stacks are useful when the most recent element matters first.
+
+/*    -----------------------------------------------------------------------------------------     */
+
+A queue follows the First In, First Out (FIFO) principle.
+
+It is commonly used in:
+
+Scheduling tasks
+
+Breadth-first search (BFS)
+
+Sliding window optimizations
+
+Real-world simulations (lines, buffers)
+
+Variants like deque and circular queue solve more specialized problems.
