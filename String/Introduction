@@ -1,0 +1,4 @@
+A string is a sequence of characters stored together.
+At first glance, string problems look simple, but many of them require careful handling of characters, indices, and patterns.
+
+Unlike arrays of numbers, strings often involve logic more than math.
