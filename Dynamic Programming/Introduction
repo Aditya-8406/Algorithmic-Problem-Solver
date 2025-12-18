@@ -1,0 +1,4 @@
+Dynamic Programming is a technique used to solve problems by breaking them into smaller, overlapping subproblems.
+
+Instead of solving the same subproblem again and again, DP stores its result and reuses it.
+This turns slow recursive solutions into efficient, optimized ones.
