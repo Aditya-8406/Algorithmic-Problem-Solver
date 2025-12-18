@@ -1,0 +1,9 @@
+Binary search is an efficient searching technique that works on sorted data.
+
+Instead of checking elements one by one:
+
+We divide the search space in half each time
+
+Decide which half to continue searching in
+
+It reduces time complexity from O(n) to O(log n) and is also used to solve optimization problems where the answer lies within a range.
