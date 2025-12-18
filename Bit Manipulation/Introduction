@@ -1,0 +1,4 @@
+Bit manipulation involves working directly with the binary representation of numbers.
+Instead of treating numbers as whole values, we operate on individual bits (0s and 1s).
+
+At first it feels tricky, but many problems become short, fast, and elegant once you understand a few core patterns.
