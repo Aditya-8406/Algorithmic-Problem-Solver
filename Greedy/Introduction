@@ -1,0 +1,15 @@
+Greedy algorithms work by making the best possible choice at the current step, hoping that these local choices lead to a globally optimal solution.
+
+The key idea is:
+
+If a problem has the property that a locally optimal decision leads to an optimal overall result, a greedy approach will work.
+
+Greedy solutions are usually:
+
+Simple to implement
+
+Very efficient
+
+Based on strong observations or patterns
+
+However, not every problem can be solved greedily, so the challenge is recognizing when greedy logic applies.
