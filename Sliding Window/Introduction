@@ -1,0 +1,11 @@
+Sliding window is a technique used when working with continuous subarrays or substrings.
+
+Instead of recalculating values for every subarray, we:
+
+Maintain a window using two pointers
+
+Expand the window to include new elements
+
+Shrink it when conditions are violated
+
+This approach reduces time complexity from O(n²) to O(n) in many problems.
