@@ -1,0 +1,6 @@
+Hashing is a technique used to store and retrieve data quickly.
+
+Instead of searching through a list one by one, hashing allows us to jump directly to the required data using a key.
+In most cases, this makes lookups, insertions, and deletions run in constant time.
+
+In programming, hashing is commonly implemented using hash maps and hash sets.
